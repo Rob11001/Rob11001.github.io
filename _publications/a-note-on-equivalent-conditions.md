@@ -2,10 +2,12 @@
 title: "A note on equivalent conditions for majorization"
 collection: publications
 permalink: publication/a-note-on-equivalent-conditions
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-29
 venue: 'AIMS Mathematics'
 paperurl: 'https://www.aimspress.com/aimspress-data/math/2024/4/PDF/math-09-04-419.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we introduced novel characterizations of the classical concept of majorization
+in terms of upper triangular (resp., lower triangular) row-stochastic matrices, and in terms of sequences
+of linear transforms on vectors. We use our new characterizations of majorization to derive an improved
+entropy inequality.
