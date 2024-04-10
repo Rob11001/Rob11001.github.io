@@ -15,21 +15,6 @@ Education
   * Supervisor: Prof. Ugo Vaccaro
   * Research Area: Information Theory, Algorithms and Data Structures
 
-\noindent {\textbf{University of Salerno}\hfill Fisciano, SA\\
-\noindent{\quad}{\emph{Master’s degree in Computer Science} }\hfill 2020 - 2022\\
-\noindent{{\qquad}Thesis: Application of Information Theory functionals to dimension reduction of 
-probability distributions
-\\
-\noindent{{\qquad} \textbf{\textit{Grade} 110/110 cum laude}}\\
-\noindent{{\qquad}Academic advisor: {\sl Prof. Ugo Vaccaro}}\\
-\vspace{3mm}
-
-\noindent {\textbf{University of Salerno}\hfill Fisciano, SA\\
-\noindent{\quad}{\emph{Bachelor’s degree in Computer Science}}\hfill 2017 - 2020\\
-\noindent{{\qquad}Thesis: Exact Exponential Algorithms\\
-\noindent{{\qquad} \textbf{\textit{Grade} 110/110 cum laude}}\\
-\noindent{{\qquad}Academic advisor: {\sl Prof. Ugo Vaccaro}}\\
-
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
