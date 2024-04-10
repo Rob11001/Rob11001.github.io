@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-\noindent{\textbf{University of Salerno}\hfill Fisciano, SA\\
-\noindent{\quad}{\emph{PhD student in Computer Science } }\hfill 2022 - currently\\
-\noindent{{\qquad}Supervisor: {\sl Prof. Ugo Vaccaro}}\\
-\noindent{{\qquad}Research Area: Information Theory and its application\\
-\vspace{3mm}
+* Ph.D in Computer Science, University of Salerno, Fisciano, SA, 2022- currently
+  * Supervisor: Prof. Ugo Vaccaro
+  * Research Area: Information Theory, Algorithms and Data Structures
+
 \noindent {\textbf{University of Salerno}\hfill Fisciano, SA\\
 \noindent{\quad}{\emph{Master’s degree in Computer Science} }\hfill 2020 - 2022\\
 \noindent{{\qquad}Thesis: Application of Information Theory functionals to dimension reduction of 
