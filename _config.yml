@@ -22,10 +22,10 @@ repository               : "Rob11001/Rob11001.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Roberto Bruno"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Ph.D Student in Computer Science"
+  location         : "Fisciano, SA, Italy"
   employer         : "Università degli Studi di Salerno"
   uri              : # URL
   email            : "rbruno@unisa.it" 
@@ -35,14 +35,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=gXWAMiAAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6039-2075"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Rob11001"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "robertobruno11001"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -199,17 +199,8 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
     permalink: /:collection/:path/
 
 
