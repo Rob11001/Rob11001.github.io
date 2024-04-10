@@ -1,6 +1,7 @@
 ---
 title: "Entropic Bounds on the Average Length of Codes with a Space"
 collection: publications
+authors: R. Bruno, U. Vaccaro
 permalink: publication/codes-with-space
 date: 2024-03-26
 venue: 'Entropy MDPI'
