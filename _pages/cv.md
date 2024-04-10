@@ -11,9 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+\noindent{\textbf{University of Salerno}\hfill Fisciano, SA\\
+\noindent{\quad}{\emph{PhD student in Computer Science } }\hfill 2022 - currently\\
+\noindent{{\qquad}Supervisor: {\sl Prof. Ugo Vaccaro}}\\
+\noindent{{\qquad}Research Area: Information Theory and its application\\
+\vspace{3mm}
+\noindent {\textbf{University of Salerno}\hfill Fisciano, SA\\
+\noindent{\quad}{\emph{Master’s degree in Computer Science} }\hfill 2020 - 2022\\
+\noindent{{\qquad}Thesis: Application of Information Theory functionals to dimension reduction of 
+probability distributions
+\\
+\noindent{{\qquad} \textbf{\textit{Grade} 110/110 cum laude}}\\
+\noindent{{\qquad}Academic advisor: {\sl Prof. Ugo Vaccaro}}\\
+\vspace{3mm}
+
+\noindent {\textbf{University of Salerno}\hfill Fisciano, SA\\
+\noindent{\quad}{\emph{Bachelor’s degree in Computer Science}}\hfill 2017 - 2020\\
+\noindent{{\qquad}Thesis: Exact Exponential Algorithms\\
+\noindent{{\qquad} \textbf{\textit{Grade} 110/110 cum laude}}\\
+\noindent{{\qquad}Academic advisor: {\sl Prof. Ugo Vaccaro}}\\
 
 Work experience
 ======
