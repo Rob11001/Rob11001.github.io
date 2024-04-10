@@ -1,7 +1,7 @@
 ---
 title: "A note on equivalent conditions for majorization"
 collection: publications
-permalink: publication/a_note_on_equivalent_conditions
+permalink: publication/a-note-on-equivalent-conditions
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-29
 venue: 'AIMS Mathematics'
