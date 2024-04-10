@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 Hi, I'm Roberto Bruno. Currently, I'm a Ph.D. student in Computer Science at the University of Salerno.
-More info about my background here (https://https://rob11001.github.io/cv/).
-My list of publications is available here (https://rob11001.github.io/publications/).
+
+More info about my background [here]([URL](https://https://rob11001.github.io/cv/)).
+
+My list of publications is available [here](https://rob11001.github.io/publications/).
 
