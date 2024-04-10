@@ -20,4 +20,7 @@ Education
 * Bachelor's degree in Computer Science, University of Salerno, Fisciano, SA, 2017-2020
 
 
+Curriculum vitae in PDF avaible [here](file://files/cv.pdf)
+
+
 
