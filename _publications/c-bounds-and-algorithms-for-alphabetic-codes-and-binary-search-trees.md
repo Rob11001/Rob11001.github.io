@@ -3,7 +3,7 @@ title: "Bounds and Algorithms for Alphabetic Codes and Binary Search Trees"
 collection: publications
 authors: R. Bruno, R. De Prisco, A. De Santis, U. Vaccaro
 excerpt: ''
-permalink: publication/bounds-and-algorithms-for-alphabetic-codes-and-binary-search-trees
+permalink: publication/c-bounds-and-algorithms-for-alphabetic-codes-and-binary-search-trees
 date: 2024-07-15 
 venue: 'IEEE Transaction on Information Theory'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10599316'
