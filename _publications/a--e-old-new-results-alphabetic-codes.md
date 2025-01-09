@@ -4,7 +4,7 @@ collection: publications
 authors: R. Bruno, R. De Prisco, U. Vaccaro
 excerpt: ''
 not_published: ''
-date: 2024-09-15
+date: 2024-01-15
 permalink: publication/a--e-old-new-results-alphabetic-codes
 venue: 'Proceedings of the Workshop on Information Theory and Related Fields, Lectures Notes in Computer
 Science'
