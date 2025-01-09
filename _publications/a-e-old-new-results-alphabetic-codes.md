@@ -5,7 +5,7 @@ authors: R. Bruno, R. De Prisco, U. Vaccaro
 excerpt: ''
 not_published: ''
 date: 2025-09-15
-permalink: publication/e-old-new-results-alphabetic-codes
+permalink: publication/a-e-old-new-results-alphabetic-codes
 venue: 'Proceedings of the Workshop on Information Theory and Related Fields, Lectures Notes in Computer
 Science'
 ---
