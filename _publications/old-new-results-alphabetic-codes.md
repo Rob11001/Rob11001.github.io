@@ -7,7 +7,6 @@ permalink: publication/old-new-results-alphabetic-codes
 date: ''
 venue: 'Proceedings of the Workshop on Information Theory and Related Fields, Lectures Notes in Computer
 Science'
-paperurl: ''
 ---
 Authors: R. Bruno, R. De Prisco, U. Vaccaro
 
