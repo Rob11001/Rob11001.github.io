@@ -3,7 +3,7 @@ title: "A note on equivalent conditions for majorization"
 collection: publications
 authors: R. Bruno, U. Vaccaro
 excerpt: ''
-permalink: publication/1-a-note-on-equivalent-conditions
+permalink: publication/a-a-note-on-equivalent-conditions
 date: 2024-02-29
 venue: 'AIMS Mathematics'
 paperurl: 'https://www.aimspress.com/aimspress-data/math/2024/4/PDF/math-09-04-419.pdf'
