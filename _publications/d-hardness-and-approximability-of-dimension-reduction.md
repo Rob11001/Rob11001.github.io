@@ -3,7 +3,7 @@ title: "Hardness and Approximability of Dimension Reduction on the Probability S
 collection: publications
 authors: R. Bruno
 excerpt: ''
-permalink: publication/hardness-and-approximability-of-dimension-reduction
+permalink: publication/d-hardness-and-approximability-of-dimension-reduction
 date: 2024-07-06
 venue: 'Algorithms MDPI'
 paperurl: 'https://www.mdpi.com/1999-4893/17/7/296'
