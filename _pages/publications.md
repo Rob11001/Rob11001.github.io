@@ -17,7 +17,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>To be submitted</h2>
+---
+
+<h1>To be submitted:</h1>
 {% for post in site.publications reversed %}
   {% if post.date %}
   {% else %}
