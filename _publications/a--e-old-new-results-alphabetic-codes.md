@@ -13,3 +13,5 @@ Authors: R. Bruno, R. De Prisco, U. Vaccaro
 
 We survey the literature on alphabetic codes, discussing motivations, applications, and the most important results in the area. We
 also present results that have not yet appeared in the literature, and we give a list of open problems in the area.
+
+Download [here](https://link.springer.com/chapter/10.1007/978-3-031-82014-4_7)
