@@ -21,7 +21,7 @@ repository               : "Rob11001/Rob11001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Roberto Bruno"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Student in Computer Science"
