@@ -4,7 +4,7 @@ collection: publications
 authors: R. Bruno, U. Vaccaro
 excerpt: ''
 permalink: publication/e-maximum-entropy-aggregation
-date: 2026-12-17 
+date: 2025-12-17 
 venue: 'IEEE Transaction on Information Theory'
 paperurl: 'https://ieeexplore.ieee.org/document/11300311'
 ---
